@@ -1,0 +1,25 @@
+*{
+  margin: 0
+  padding: 0
+  
+}
+
+body{
+  background: light-gray;
+    
+}
+
+div.Application{
+  
+  border:4px solid
+  padding:20px
+  font-size: 2rem;
+  Padding:20px;
+  border:4px solid blue;
+      
+}
+.Policy{
+  border:4px solid blue;
+  padding:20px;
+  
+}
